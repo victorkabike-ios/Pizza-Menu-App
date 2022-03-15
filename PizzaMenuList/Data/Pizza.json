@@ -1,0 +1,36 @@
+[
+{
+    "name":"Hawaiian",
+    "image": "hawaiian",
+    "topping":[
+        "Ham",
+        "pineapple",
+        "cheese",
+        "pizza sauce"
+    ]
+    
+},
+{
+  "name": "Deluxe",
+  "image":"deluxe",
+  "topping":[
+      "mozzarella cheese",
+      "sausage",
+      "pepperoni",
+      "onions",
+      "artichoke hearts",
+      "pineapple",
+      "mushrooms",
+      "black olives"]
+},
+{
+    "name":"Meatlovers",
+    "image":"meatlovers",
+    "topping":[
+        "pepperoni",
+        "Italian sausage",
+        "ham",
+        "bacon",
+        "seasoned pork & beef"
+    ]
+}]
